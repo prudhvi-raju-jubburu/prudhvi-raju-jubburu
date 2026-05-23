@@ -1,113 +1,211 @@
-<h1 align="center">Hi 👋, I'm J. Prudhvi Raju</h1>
-<h3 align="center">Full Stack MERN Developer | Software Engineer | Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=prudhvi-raju-jubburu">
-    <img src="https://komarev.com/ghpvc/?username=prudhvi-raju-jubburu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
+# 👋 Hey, I'm J. Prudhvi Raju
 
----
+### Full Stack MERN Developer • Software Engineer • AI Enthusiast
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;AI+Powered+Software+Developer;Problem+Solver+and+Tech+Enthusiast" />
 
-🎓 B.Tech Computer Science & Engineering (2023–2027)  
-🏫 GMR Institute of Technology, Andhra Pradesh  
+<br>
 
-💻 Passionate Full Stack Developer specializing in the MERN Stack
-
-🧠 Strong foundation in:
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Web Development
-
-🌱 Currently Learning:
-- Advanced MERN Stack Development
-- System Design Fundamentals
-- Generative AI Applications
-
-🎯 Goal:
-- Secure a Software Development Engineer (SDE) Internship/Placement
-- Build scalable and impactful software products
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/jubburu-prudhvi-raju-8a6213374/" target="_blank">
+<a href="https://www.linkedin.com/in/jubburu-prudhvi-raju-8a6213374/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:jubburuprudhviraju@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- Replace with your portfolio URL -->
-<a href="https://your-portfolio-link.vercel.app" target="_blank">
+<a href="YOUR_PORTFOLIO_LINK">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=prudhvi-raju-jubburu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 **B.Tech Computer Science & Engineering (2023–2027)**
+
+🏫 **GMR Institute of Technology**
+
+💻 Passionate **Full Stack MERN Developer**
+
+🤖 Interested in **Artificial Intelligence & Generative AI**
+
+🧠 Strong in:
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Full Stack Web Development
+
+🌱 Currently Learning:
+- Advanced MERN Development
+- System Design
+- AI Integration in Web Applications
+
+🎯 Goal:
+- Become a Software Development Engineer
+- Build impactful products solving real-world problems
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
 
 ### Languages
-<p>
+
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-</p>
 
 ### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
 
 ### Backend
-<p>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
 
-### Databases
-<p>
+### Database
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
 
-### Tools & Platforms
-<p>
+### Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+
+</div>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🌐 AP Tourism Website
-MERN Stack based tourism platform with modern UI and destination management.
+<table>
 
-### 🛒 Buy Smart – Product Recommendation System
-AI-powered product recommendation platform using Machine Learning and personalized suggestions.
+<tr>
 
-### 🎓 AI Placement Preparation Assistant
-GenAI-powered assistant helping students prepare for placements with learning resources and guidance.
+<td width="50%">
 
-### 💼 Personal Portfolio Website
-Responsive portfolio showcasing projects, skills, certifications, and achievements.
+<h3>🛒 Buy Smart</h3>
+
+AI-Powered Product Recommendation System
+
+✅ Personalized Recommendations
+
+✅ Machine Learning Based Ranking
+
+✅ Modern User Interface
+
+<br>
+
+<a href="YOUR_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🎯 AI Placement Assistant</h3>
+
+GenAI-Powered Placement Preparation Platform
+
+✅ AI Guidance
+
+✅ Interview Preparation
+
+✅ Learning Roadmaps
+
+<br>
+
+<a href="YOUR_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>🌏 AP Tourism Website</h3>
+
+Full Stack Tourism Management Platform
+
+✅ MERN Stack
+
+✅ Responsive Design
+
+✅ Modern UI
+
+<br>
+
+<a href="YOUR_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🌐 Portfolio Website</h3>
+
+Personal Portfolio Showcasing Skills & Projects
+
+✅ Responsive Design
+
+✅ React Based
+
+✅ Professional UI
+
+<br>
+
+<a href="YOUR_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 🏅 LeetCode 100 Days Badge 2026
 
-💡 Completed AI Technologies Internship
+🏅 AI Technologies Internship Completion
 
-💡 Completed MERN Stack Internship
+🏅 MERN Stack Internship Completion
 
-🏅 Multiple Certifications from:
+🏅 Certifications from:
 - Infosys Springboard
 - NPTEL
 - Coursera
@@ -115,52 +213,84 @@ Responsive portfolio showcasing projects, skills, certifications, and achievemen
 
 ---
 
-## 📈 GitHub Statistics
+# 📈 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=prudhvi-raju-jubburu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prudhvi-raju-jubburu&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prudhvi-raju-jubburu&theme=tokyonight&hide_border=true"/>
-</p>
+<br>
 
----
+<div align="center">
 
-## 📚 Coding Profiles
+<img src="https://github-readme-streak-stats.herokuapp.com?user=prudhvi-raju-jubburu&theme=tokyonight&hide_border=true"/>
 
-- 💻 LeetCode: https://leetcode.com/
-- 🏆 HackerRank: https://www.hackerrank.com/
-- 👨‍💻 GitHub: https://github.com/prudhvi-raju-jubburu
+</div>
 
 ---
 
-## 🤝 Leadership & Activities
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prudhvi-raju-jubburu&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Coding Profiles
+
+<div align="center">
+
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="YOUR_HACKERRANK_LINK">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://github.com/prudhvi-raju-jubburu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 🤝 Leadership & Activities
 
 🔹 NSS Volunteer
 
-🔹 Team Collaboration & Event Management
+🔹 Team Collaboration & Leadership
 
-🔹 Active Learner and Open Source Enthusiast
+🔹 Community Service Activities
 
----
-
-## 🔥 2026 Goals
-
-✅ Strengthen DSA & Problem Solving
-
-✅ Build Production-Level Full Stack Applications
-
-✅ Contribute to Open Source Projects
-
-✅ Secure an SDE Role
-
-✅ Explore AI-Powered Software Development
+🔹 Open Source Enthusiast
 
 ---
 
-⭐ If you like my projects, feel free to star the repositories and connect with me!
+# 🔥 Current Focus
+
+✅ Building Production-Level MERN Applications
+
+✅ Strengthening DSA & Problem Solving Skills
+
+✅ Exploring AI-Powered Web Applications
+
+✅ Preparing for Software Development Roles
+
+---
+
+<div align="center">
+
+### ⭐ Building Software That Creates Impact
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+
+</div>
