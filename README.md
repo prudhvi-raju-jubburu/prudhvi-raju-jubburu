@@ -30,7 +30,7 @@
 
 # 🚀 About Me
 
-<!-- <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 **B.Tech Computer Science & Engineering (2023–2027)**
 
