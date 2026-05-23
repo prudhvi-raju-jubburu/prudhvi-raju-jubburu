@@ -16,13 +16,13 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://prudhviraju-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=prudhvi-raju-jubburu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<!-- <img src="https://komarev.com/ghpvc/?username=prudhvi-raju-jubburu&label=Profile%20Views&color=0e75b6&style=for-the-badge" /> -->
 
 </div>
 
@@ -291,6 +291,6 @@ Personal Portfolio Showcasing Skills & Projects
 
 ### ⭐ Building Software That Creates Impact
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/> -->
 
 </div>
