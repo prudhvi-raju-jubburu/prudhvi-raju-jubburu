@@ -91,7 +91,7 @@
 
 <tr>
 
-<td width="50%">
+<td width="33.33%">
 
 <h3>🛒 Buy Smart</h3>
 
@@ -115,7 +115,7 @@ AI-Powered Product Recommendation System
 
 </td>
 
-<td width="50%">
+<td width="33.33%">
 
 <h3>🎯 AI Placement Assistant</h3>
 
@@ -139,11 +139,7 @@ GenAI-Powered Placement Preparation Platform
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%">
+<td width="33.33%">
 
 <h3>🌏 AP Tourism Website</h3>
 
@@ -164,10 +160,6 @@ Full Stack Tourism Management Platform
 <a href="YOUR_REPO_LINK">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
-
-<td width="50%">
-
-</td>
 
 </tr>
 
