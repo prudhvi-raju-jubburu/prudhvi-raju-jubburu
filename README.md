@@ -22,7 +22,7 @@
 
 <br><br>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=prudhvi-raju-jubburu&label=Profile%20Views&color=0e75b6&style=for-the-badge" /> -->
+<img src="https://komarev.com/ghpvc/?username=prudhvi-raju-jubburu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -30,7 +30,7 @@
 
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
 🎓 **B.Tech Computer Science & Engineering (2023–2027)**
 
@@ -165,29 +165,7 @@ Full Stack Tourism Management Platform
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</td>
-
 <td width="50%">
-
-<h3>🌐 Portfolio Website</h3>
-
-Personal Portfolio Showcasing Skills & Projects
-
-✅ Responsive Design
-
-✅ React Based
-
-✅ Professional UI
-
-<br>
-
-<a href="YOUR_DEMO_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </td>
 
@@ -287,10 +265,3 @@ Personal Portfolio Showcasing Skills & Projects
 
 ---
 
-<div align="center">
-
-### ⭐ Building Software That Creates Impact
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/> -->
-
-</div>
