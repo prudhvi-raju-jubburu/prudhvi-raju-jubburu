@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubburu-prudhvi-raju-8a6213374/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jubburuprudhviraju@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://prudhviraju-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://prudhviraju.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prudhvi-raju-jubburu)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prudhvi-raju-jubburu&label=Profile%20Views&color=0e75b6&style=flat-square)
@@ -84,9 +84,11 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|-----------|-------|
-| **🛒 Buy Smart** | AI-Powered Product Recommendation System with personalized rankings and ML-based suggestions | React, Node.js, MongoDB, ML | [![Demo](https://img.shields.io/badge/Demo-00C853?style=flat-square)](YOUR_DEMO_LINK) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](YOUR_REPO_LINK) |
-| **🎯 AI Placement Assistant** | GenAI-Powered Platform for interview prep, guidance, and learning roadmaps | React, Node.js, GenAI, MongoDB | [![Demo](https://img.shields.io/badge/Demo-00C853?style=flat-square)](YOUR_DEMO_LINK) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](YOUR_REPO_LINK) |
-| **🌏 AP Tourism Website** | Full-stack tourism management platform with responsive design | MERN Stack | [![Demo](https://img.shields.io/badge/Demo-00C853?style=flat-square)](YOUR_DEMO_LINK) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](YOUR_REPO_LINK) |
+| **🌏 AP Tourism Website** | Full-stack tourism management platform with responsive design | MERN Stack | [![Demo](https://img.shields.io/badge/Demo-00C853?style=flat-square)](https://visitap.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](YOUR_REPO_LINK) |
+| **🎯 Farmer Direct** | Market Place it directly connects Farmers with Consumers without Intermediataries | React, Node.js, GenAI, MongoDB | [![Demo](https://img.shields.io/badge/Demo-00C853?style=flat-square)](https://farmerdirect.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](YOUR_REPO_LINK) |
+| **🛒 Buy Smart** | AI-Powered Product Recommendation System with personalized rankings and ML-based suggestions | React, Node.js, MongoDB, ML | [![Demo](https://img.shields.io/badge/Demo-00C853?style=flat-square)](https://buysmart-ai.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](YOUR_REPO_LINK) |
+
+
 
 </div>
 
@@ -135,8 +137,8 @@
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_LINK)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](YOUR_HACKERRANK_LINK)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Prudhvi_Raju_Jubburu/)
+[![GeekForGeeks](https://img.shields.io/badge/GeekForGeeks-2EC866?style=for-the-badge&logo=geekforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jubburuprudhviraju)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prudhvi-raju-jubburu)
 
 </div>
@@ -182,7 +184,7 @@ Frontend          Backend           Databases        Advanced
 
 Feel free to reach out for collaborations, opportunities, or just a tech discussion.
 
-**[📧 Email Me](mailto:jubburuprudhviraju@gmail.com)** | **[💼 LinkedIn](https://www.linkedin.com/in/jubburu-prudhvi-raju-8a6213374/)** | **[🌐 Portfolio](https://prudhviraju-portfolio.vercel.app)**
+**[📧 Email Me](mailto:jubburuprudhviraju@gmail.com)** | **[💼 LinkedIn](https://www.linkedin.com/in/jubburu-prudhvi-raju-8a6213374/)** | **[🌐 Portfolio](https://prudhviraju.vercel.app)**
 
 ---
 
