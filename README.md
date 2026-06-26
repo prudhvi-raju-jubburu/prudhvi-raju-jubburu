@@ -10,10 +10,18 @@
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubburu-prudhvi-raju-8a6213374/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jubburuprudhviraju@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://prudhviraju.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prudhvi-raju-jubburu)
+<a href="https://www.linkedin.com/in/jubburu-prudhvi-raju-8a6213374/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=20" alt="LinkedIn" />
+</a>&nbsp;
+<a href="mailto:jubburuprudhviraju@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&logoWidth=20" alt="Gmail" />
+</a>&nbsp;
+<a href="https://prudhviraju.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&logoWidth=20" alt="Portfolio" />
+</a>&nbsp;
+<a href="https://github.com/prudhvi-raju-jubburu">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&logoWidth=20" alt="GitHub" />
+</a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prudhvi-raju-jubburu&label=Profile%20Views&color=0e75b6&style=flat-square)
 
@@ -82,15 +90,74 @@
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|-----------|-------|
-| **🌏 AP Tourism Website** | Full-stack tourism management platform with responsive design | MERN Stack | [![Demo](https://img.shields.io/badge/Demo-00C853?style=flat-square)](https://visitap.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](YOUR_REPO_LINK) |
-| **🎯 Farmer Direct** | Market Place it directly connects Farmers with Consumers without Intermediataries | React, Node.js, GenAI, MongoDB | [![Demo](https://img.shields.io/badge/Demo-00C853?style=flat-square)](https://farmerdirect.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](YOUR_REPO_LINK) |
-| **🛒 Buy Smart** | AI-Powered Product Recommendation System with personalized rankings and ML-based suggestions | React, Node.js, MongoDB, ML | [![Demo](https://img.shields.io/badge/Demo-00C853?style=flat-square)](https://buysmart-ai.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](YOUR_REPO_LINK) |
-
-
+### ✨ Explore My Work
 
 </div>
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" align="center">
+
+#### 🌏 AP Tourism Website
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge" alt="Live" />
+
+**Full-Stack Tourism Platform**
+
+• MERN Stack Architecture
+• Responsive Design
+• Beautiful UI/UX
+• Real-time Data
+
+<a href="https://visitap.vercel.app">
+  <img src="https://img.shields.io/badge/🔗_Live_Demo-00C853?style=for-the-badge&logoColor=white" alt="Demo" />
+</a>
+<a href="https://github.com/prudhvi-raju-jubburu/ap-tourism-website">
+  <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+</a>
+
+</td>
+<td width="33%" align="center">
+
+#### 🎯 Farmer Direct
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge" alt="Live" />
+
+**Farm to Consumer Marketplace**
+
+• Direct Farmer Connections
+• AI-Powered Recommendations
+• Secure Transactions
+• Community Driven
+
+<a href="https://farmerdirect.vercel.app">
+  <img src="https://img.shields.io/badge/🔗_Live_Demo-00C853?style=for-the-badge&logoColor=white" alt="Demo" />
+</a>
+<a href="https://github.com/prudhvi-raju-jubburu/farmer-direct">
+  <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+</a>
+
+</td>
+<td width="33%" align="center">
+
+#### 🛒 Buy Smart
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge" alt="Live" />
+
+**AI Product Recommendation**
+
+• Machine Learning Rankings
+• Personalized Suggestions
+• Smart Search
+• Modern Interface
+
+<a href="https://buysmart-ai.vercel.app">
+  <img src="https://img.shields.io/badge/🔗_Live_Demo-00C853?style=for-the-badge&logoColor=white" alt="Demo" />
+</a>
+<a href="https://github.com/prudhvi-raju-jubburu/buy-smart">
+  <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -98,9 +165,11 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=prudhvi-raju-jubburu&show_icons=true&theme=nord&hide_border=true&count_private=true" />
+### 📈 My GitHub Activity
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prudhvi-raju-jubburu&layout=compact&theme=nord&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=prudhvi-raju-jubburu&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prudhvi-raju-jubburu&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -122,12 +191,12 @@
 
 <div align="center">
 
-| Badge | Description |
-|-------|-------------|
-| 🥇 LeetCode 100 Days Challenge 2026 | Consistent problem-solving streak |
-| 🎓 AI Technologies Internship | Completed specialized AI training |
-| 🎓 MERN Stack Internship | Full-stack development expertise |
-| 📜 Certifications | Infosys Springboard, NPTEL, Coursera, HackerRank |
+| Achievement | Details | Status |
+|:---:|:---:|:---:|
+| 🥇 **LeetCode 100 Days** | Consistent Problem Solving | ✅ 2026 |
+| 🎓 **AI Technologies** | Specialized AI Training | ✅ Complete |
+| 🎓 **MERN Stack** | Full-Stack Development | ✅ Complete |
+| 📜 **Certifications** | Infosys, NPTEL, Coursera, HackerRank | ✅ Verified |
 
 </div>
 
@@ -137,9 +206,15 @@
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Prudhvi_Raju_Jubburu/)
-[![GeekForGeeks](https://img.shields.io/badge/GeekForGeeks-2EC866?style=for-the-badge&logo=geekforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jubburuprudhviraju)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prudhvi-raju-jubburu)
+<a href="https://leetcode.com/u/Prudhvi_Raju_Jubburu/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/jubburuprudhviraju">
+  <img src="https://img.shields.io/badge/GeekForGeeks-2EC866?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
+</a>&nbsp;
+<a href="https://github.com/prudhvi-raju-jubburu">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
@@ -147,16 +222,26 @@
 
 ## 🤝 Community & Leadership
 
-- 🌱 **NSS Volunteer** - Active in community service and social initiatives
-- 👥 **Team Player** - Strong collaboration and leadership skills
-- 🌍 **Open Source Enthusiast** - Contributing to the developer community
-- 📚 **Mentor** - Helping peers with learning and problem-solving
+<div align="center">
+
+| Role | Description |
+|:---:|:---|
+| 🌱 | **NSS Volunteer** - Active in community service and social initiatives |
+| 👥 | **Team Player** - Strong collaboration and leadership skills |
+| 🌍 | **Open Source Enthusiast** - Contributing to the developer community |
+| 📚 | **Mentor** - Helping peers with learning and problem-solving |
+
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
+<div align="center">
+
 ```
+✨ CURRENT GOALS ✨
+
 ✅ Building Production-Level MERN Applications
 ✅ Mastering System Design & Architecture
 ✅ Exploring AI/GenAI Integration in Web Applications
@@ -164,30 +249,73 @@
 ✅ Preparing for Software Development Engineering Roles
 ```
 
+</div>
+
 ---
 
 ## 📈 My Learning Path
 
+<div align="center">
+
 ```
-Frontend          Backend           Databases        Advanced
-├─ React          ├─ Node.js        ├─ MongoDB       ├─ System Design
-├─ Tailwind CSS   ├─ Express.js     ├─ MySQL         ├─ Microservices
-├─ Redux          └─ REST APIs      └─ Redis         └─ Cloud Deployment
-└─ TypeScript
+🚀 DEVELOPMENT ROADMAP 🚀
+
+Frontend              Backend               Databases          Advanced
+├─ React              ├─ Node.js            ├─ MongoDB          ├─ System Design
+├─ Tailwind CSS       ├─ Express.js         ├─ MySQL            ├─ Microservices
+├─ Redux              ├─ REST APIs          └─ Redis            └─ Cloud Deploy
+└─ TypeScript         └─ GraphQL
 ```
+
+</div>
+
+---
+
+## 🎪 Let's Collaborate!
+
+<div align="center">
+
+### ⚡ Open for Opportunities
+
+I'm actively seeking **internships** and **full-time roles** where I can contribute my skills and grow as a developer.
+
+<br>
+
+### 📞 Get In Touch
+
+<a href="mailto:jubburuprudhviraju@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logoColor=white" alt="Email" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/jubburu-prudhvi-raju-8a6213374/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;
+<a href="https://prudhviraju.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>&nbsp;
+<a href="https://github.com/prudhvi-raju-jubburu">
+  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logoColor=white" alt="GitHub" />
+</a>
+
+<br>
+
+---
+
+### ⭐ Show Your Support!
+
+If you find my work helpful or interesting, consider giving my repositories a star! It motivates me to keep creating and sharing valuable content.
+
+[![Star me on GitHub!](https://img.shields.io/badge/⭐_Star_This_Repo-181717?style=for-the-badge&logo=github&logoColor=yellow)](https://github.com/prudhvi-raju-jubburu)
+
+---
+
+<img src="https://raw.githubusercontent.com/prudhvi-raju-jubburu/prudhvi-raju-jubburu/main/wave.gif" width="100%" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect!
-
-Feel free to reach out for collaborations, opportunities, or just a tech discussion.
-
-**[📧 Email Me](mailto:jubburuprudhviraju@gmail.com)** | **[💼 LinkedIn](https://www.linkedin.com/in/jubburu-prudhvi-raju-8a6213374/)** | **[🌐 Portfolio](https://prudhviraju.vercel.app)**
-
----
-
-⭐ *If you like what I do, consider giving my repos a star!* ⭐
+### Made with ❤️ by Prudhvi Raju | © 2026
 
 </div>
